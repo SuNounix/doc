@@ -54,7 +54,7 @@ For this, go in Diagnosis (category Base system) or look at the footer of the we
 #### Run the migration to repair your python app
 After upgrading, your python apps should be unavailable cause their virtual env need to be rebuild.
 
-To do that you can run the pending migrations in `Webadmin > Update`. The apps below won't be automatically repaired, you need to force upgrade them manually instead with `yunohost app upgrade -f APP`.
+To do that you can run the pending migrations in `Webadmin > Update`. The apps below won't be automatically repaired, you need to force upgrade them manually instead with `yunohost app upgrade --force APP`.
 
 Apps which won't be automatically repaired and need a force upgrade:
  * calibreweb
