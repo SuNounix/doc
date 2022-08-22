@@ -20,6 +20,7 @@ Le cas échéant, voici certains des formulaires vous permettant de retirer votr
 
 * [Microsoft](https://support.microsoft.com/en-us/getsupport?oaspworkflow=start_1.0.0.0&wfname=capsub&productkey=edfsmsbl3&locale=en-us)
 * [GMail](https://support.google.com/mail/contact/msgdelivery)
+* [Yahoo](https://senders.yahooinc.com/contact#sender-support-request)
 
 ##### Services anti-spam 
 
